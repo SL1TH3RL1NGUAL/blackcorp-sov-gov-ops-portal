@@ -21,3 +21,12 @@ This repository hosts the public, ceremonial front page for the BlackCorp sovere
 ## Status
 
 This portal is an experimental, non-traditional governance construct. Use at your own risk and always consult qualified counsel before relying on any aspect of this framework in a physical jurisdiction.
+
+## Sovereign Architecture — Branch‑2 & Constitutional Umbrella
+
+- **Helix Runtime Extension (Branch‑2):** `docs/helix-runtime/BRANCH-2.md`  
+- **Jurisdictional Umbrella (Constitutional Block I):** `docs/constitution/UMBRELLA-BLOCK-I.md`
+
+These documents define:
+- the Active Helix Runtime, intent grammar, and capsule architecture; and  
+- the sovereign jurisdictional umbrella, including Executive, Legislative, and Judicial branches with adversary currents.
