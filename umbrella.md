@@ -21,7 +21,7 @@ or
 ```markdown
 # 🜁 Sovereign Umbrella Declaration
 
-```json
+
 { {
   "jurisdictional_umbrella": {
     "creators": [
